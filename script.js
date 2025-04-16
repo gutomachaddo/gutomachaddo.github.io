@@ -10,4 +10,8 @@ document.addEventListener('DOMContentLoaded', function() {
             this.classList.remove('hover-effect');
         });
     });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> e5ed9eee9727732e5a86bb031e810e7e54e5dc3b
