@@ -21,4 +21,6 @@
 
 ##
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gutomachaddo/gutomachaddo/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=gutomachaddo&repo=gutomachaddo&theme=react)](https://github.com/gutomachaddo/gutomachaddo)
