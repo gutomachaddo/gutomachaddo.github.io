@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm Augusto Machado! <br>💻 I'm a student of  Systems Analysis and Development at IENH college <br>🎓. I'm currently exploring the exciting world of technology and building cool projects! Feel free to check out my repositories  👇
+https://gutomachaddo.github.io/
 
 
 ## 🌐 Socials:
